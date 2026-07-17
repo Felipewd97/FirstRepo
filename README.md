@@ -1,2 +1,1 @@
-# FirstRepo
-Repositorio del Curso de Git y GitHub
+# Repositorio del Curso de Git y GitHub
